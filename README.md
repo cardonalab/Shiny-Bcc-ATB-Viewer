@@ -4,3 +4,5 @@ https://cardonalab.shinyapps.io/bcc_interaction_viewer/
 
 See the file app.R for the code. 
 Note: the app was built under RStudio 2022.07.2+576
+
+Instructions and tutorials on using Shiny apps can be found at: https://shiny.posit.co/
